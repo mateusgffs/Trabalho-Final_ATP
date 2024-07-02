@@ -2,4 +2,3 @@ ProdutoA 200
 ProdutoB 150
 ProdutoC 100
 ProdutoD 175
-
